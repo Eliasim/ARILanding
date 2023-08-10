@@ -21,7 +21,7 @@
 
 /*** Navbar ***/
 
-@media (max-width: 1280px) {
+@media (max-width: 1079px) {
     .hidden  {
         display: none;
     }
@@ -63,13 +63,13 @@ button {
 }
 
 .cta-green {
-    background: #00FFAD;
+    background: #2d297e;
     color: #192440;
 }
 
 .cta-green:hover {
     color: #ffffff;
-    background: #00e69c;
+    background: #39a5c0;
 }
 
 .cta-blue {
@@ -112,11 +112,11 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(168deg, #ffffff 55%, #00FFAD 0);
+    background: linear-gradient(168deg, #ffffff 55%, #2d297e 0);
 }
 
 #feature-last {
-    background: #00FFAD;
+    background: #2d297e;
 }
 
 /********** price table **********/
@@ -144,19 +144,19 @@ button {
 }
 
 #contact form {
-    color: #00FFAD;
+    color: #2d297e;
 }
 
 #contact form input,
 #contact form textarea {
     background: transparent;
-    border: 1px solid #00FFAD;
+    border: 1px solid #2d297e;
     color: #ffffff;
 }
 
 /********** copyright **********/
 #copyright {
-    background: #192440;
+    background: #2d297e;
     padding: 2rem 3rem;
 }
 
@@ -175,7 +175,7 @@ button {
 }
 
 #copyright #social-media a:hover {
-    background: #00FFAD;
+    background: #2d297e;
 }
 
 #copyright #social-media a:hover i {
